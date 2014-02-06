@@ -1,0 +1,4 @@
+piratifo
+========
+
+dokuwiki plugin

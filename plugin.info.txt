@@ -1,0 +1,7 @@
+base   piratifo
+author Vaclav Malek
+email  vaclav.malek@pirati.cz
+date   2013-12-31
+name   Financial system
+desc   Financial system of Czech Pirate party
+url    https://www.pirati.cz
